@@ -24,3 +24,5 @@
 @media(max-width:700px){.hero,.featured{grid-template-columns:1fr}.header{height:auto;min-height:100px;padding-block:18px;gap:18px}.header nav{gap:20px;flex-wrap:wrap}.hero-proof{flex-direction:row}.button{gap:12px}.section-heading>p{max-width:none}.samsung-impact{align-items:flex-start;flex-direction:column;gap:14px;padding:25px}.contact-links{flex-direction:column}.project-content h3{font-size:30px;overflow-wrap:break-word}.release-flow small{font-size:14px}}
 
 @media print{body{background:white;font-size:14px}.header,nav,.actions,.cv-note,.field-note,.release-panel,.contact-section .button,footer,.skip{display:none}.wrap{width:100%}.hero,.section,.experience-section{padding:20px 0}.hero,.featured,.experience-layout,.about-layout{display:block}.project-grid{gap:12px}.project-card,.featured{break-inside:avoid}.stack-strip{display:none}h1{font-size:36px}h2{font-size:26px}.contact-section{background:white;color:var(--ink);padding:20px 0}.contact-section p:not(.eyebrow),.contact-section .eyebrow{color:var(--muted)}}
+
+.incident-card{margin-top:24px}.release-flow strong{overflow-wrap:anywhere}
